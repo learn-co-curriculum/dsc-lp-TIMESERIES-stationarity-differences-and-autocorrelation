@@ -109,7 +109,7 @@ BASIC_TIME_SERIES.3.recm9iwNwjsG0EPOp
 	* Explain differencing, and demonstrate it in practice
 	* Have students try to difference the second dataset on their own
 * Autocorrelation
-	* 
+	* Definition, connection to correlation....
 * ACF and PACF Plots
 	* Introduce the plots and how to interpret them
-	* Have students 
+	* Have students discuss interpretation of these plot
