@@ -19,7 +19,7 @@ hidden: true
 
 #### Lesson Summary:
 
-This lesson starts by defining time series and discussing stationarity. This leads into a brief sorting activity and discussion regarding whether various time series graphs are stationary.  From there, the Dickey Fuller test is introduced in order to determine the stationarity of a time series dataset. From there, differencing is introduced using a dataset which is imported via Pandas. Afterwards, autocorrelation 
+This lesson starts by defining time series and discussing stationarity. This leads into a brief sorting activity and discussion regarding whether various time series graphs are stationary.  From there, the Dickey Fuller test is introduced in order to determine the stationarity of a time series dataset. From there, differencing is introduced using a dataset which is imported via Pandas. Afterwards, autocorrelation is discussed and both ACF and PACF plots are explored.
 
 #### Topic:
 
